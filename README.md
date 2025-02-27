@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan0739&label=Profile%20views&color=0e75b6&style=flat" alt="muskan0739" /> </p>
 
-- 🌱 I’m currently learning **Java, css, JavaScript, React JS**
-
-- 💬 Ask me about **Java, HTML, CSS**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **muskanshukla707@gmail.com**
 
-- ⚡ Fun fact **I am fast learner**
+- ⚡ Fun fact **I am a fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
